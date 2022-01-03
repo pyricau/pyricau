@@ -5,10 +5,11 @@ My pronouns are he / him. I'm currently working as an Android Staff Engineer at 
 A few things I enjoy:
 
 - Publishing Open Source libraries ([LeakCanary](https://github.com/square/leakcanary), [Curtains](https://github.com/square/curtains), [Radiography](https://github.com/square/radiography))
-- Rollerblading
+- [Rollerblading](https://www.instagram.com/py.ricau/)
 - Writing technical blogs (on [hashnode.com/@py](https://hashnode.com/@py) and previously [dev.to/pyricau](https://dev.to/pyricau))
-- Cooking
-- Giving tech talks ([list of talks](http://www.piwai.info/cv.html#public-speaking))
+- [Cooking](https://www.instagram.com/py.ricau/)
+- Giving [tech talks](http://www.piwai.info/cv.html#public-speaking)
+- Reading [sci-fi](https://twitter.com/Piwai/status/1180292158361747456)
 
 # Vanity stats
 
