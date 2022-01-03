@@ -13,7 +13,8 @@ A few things I enjoy:
 # Vanity stats
 
 <p><a href="https://twitter.com/piwai" target="blank"><img src="https://img.shields.io/twitter/follow/piwai?logo=twitter&style=for-the-badge" alt="piwai" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pyricau&show_icons=true&locale=en" alt="pyricau" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pyricau&show_icons=true&locale=en&include_all_commits=true&count_private=true&line_height=30" alt="pyricau" /></p>
+
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=pyricau" alt="pyricau" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pyricau&" alt="pyricau" /></p>
 
