@@ -1,13 +1,21 @@
-# py
+<h1 align="center">👋 Hello there! I'm P.Y.</h1>
 
-Android Tech Lead @square
+My pronouns are he / him. I'm currently working as an Android Staff Engineer at Square.
 
-Author of LeakCanary & https://androidsrc.dev
+A few things I enjoy:
 
-Blogs at https://dev.to/pyricau
+- Publishing Open Source libraries ([LeakCanary](https://github.com/square/leakcanary), [Curtains](https://github.com/square/curtains), [Radiography](https://github.com/square/radiography))
+- Rollerblading
+- Writing technical blogs (on [hashnode.com/@py](https://hashnode.com/@py) and previously [dev.to/pyricau](https://dev.to/pyricau))
+- Cooking
+- Giving tech talks ([list of talks](http://www.piwai.info/cv.html#public-speaking))
 
-Public speaker ([list of talks](http://www.piwai.info/cv.html#public-speaking)).
+# Vanity stats
 
-🍷🥖⛷🇫🇷
+<p><a href="https://twitter.com/piwai" target="blank"><img src="https://img.shields.io/twitter/follow/piwai?logo=twitter&style=for-the-badge" alt="piwai" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pyricau&show_icons=true&locale=en" alt="pyricau" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=pyricau" alt="pyricau" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pyricau&" alt="pyricau" /></p>
 
-he/him
+
+
