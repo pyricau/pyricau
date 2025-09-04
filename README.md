@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello there! I'm P.Y.</h1>
 
-My pronouns are he / him. I'm currently working as an Android Staff Engineer at Square.
+My pronouns are he / him. I'm currently working as an Android Principal Engineer at Square.
 
 A few things I enjoy:
 
